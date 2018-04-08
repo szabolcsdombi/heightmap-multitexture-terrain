@@ -1,5 +1,11 @@
 # Multitexture Terrain rendering using [ModernGL](https://github.com/cprogrammer1994/ModernGL)
-Small (1 hour) project using [ModernGL](https://github.com/cprogrammer1994/ModernGL) for terrain rendering.
+Small project using [ModernGL](https://github.com/cprogrammer1994/ModernGL) for terrain rendering.
+
+This example is using **ModernGL 4.x.x** please install with
+
+```sh
+pip install "ModernGL<5.0.0"
+```
 
 ## Screenshots
 
